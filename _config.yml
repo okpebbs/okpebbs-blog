@@ -53,6 +53,10 @@ minima:
 # - about.md
 
 # Build settings
+header_pages:
+  - about.md
+  - portfolio.md
+
 theme: minima
 minima:
   skin: solarized
