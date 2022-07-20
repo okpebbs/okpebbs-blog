@@ -54,7 +54,7 @@ minima:
 
 # Build settings
 theme: minima
-skin: dark
+  skin: solarized
 
 plugins:
  - jekyll-feed
