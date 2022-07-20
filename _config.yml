@@ -59,7 +59,7 @@ header_pages:
 
 theme: minima
 minima:
-  skin: solarized
+  skin: solarized-dark
 
 plugins:
  - jekyll-feed
